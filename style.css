@@ -188,3 +188,15 @@ img{
 .wrap_img{
   margin-bottom: 112px;
 }
+
+.title_im{
+  display: block;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 14px;
+}
+
+.subtitle_im{
+  font-size: 48px;
+  font-weight: 700;
+}
